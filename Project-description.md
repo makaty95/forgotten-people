@@ -176,3 +176,18 @@ To satisfy the project’s AI requirement, a non‑player enemy **Memory Guardia
 | PvP consequence | Loss of score, possible forgetting (old version) | Only loss of progress toward *next* person |
 | Memories | Abstract | Specific people (friend, lover, parent, etc.) |
 | Endgame | Leaderboard only | Leaderboard + optional dark ending |
+
+---
+
+## 11. Possible needed project 3D assets
+| Asset | Description | Animations |
+|--------|----------------|------------------------|
+| Player | Vague maybe masked character with (preferrably wears a black outfit) | 1. Running<br>2. Walking <br>3. Sliding<br>4. Crouching|
+| Gems | liquid memory gems | 1. Spinning<br>2. Collecting |
+| Environment structures | Any | _ |
+| Cannons | Cannons which able to fire at the player | 1. Firing<br>2. Moving |
+| Cannon shells | Metal shells which the canon could fire at the player | _ |
+| Memory Guardian | NPC which patrols around the gems | 1. Walk<br>2. Run<br>3. Attack<br>|
+| Respawn point indicator | A clock | _ |
+| Finish line (level end) Indicator | A Door | 
+
